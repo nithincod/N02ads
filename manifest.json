@@ -1,0 +1,15 @@
+{
+    "name": "No2ads",
+    "version": "1.0",
+    "description": "Nithin Extention for Extention mania",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "16": "Images/1.png",
+        "48": "Images/2.png",
+        "128": "Images/3.png"
+    },
+    "manifest_version": 2
+}
